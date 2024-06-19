@@ -1,3 +1,5 @@
+console.log('Teste do Github')
+
 const readline = require('readline')
 
 const rl = readline.createInterface({
@@ -120,4 +122,4 @@ function exibirMenu() {
 
         }
     }
-console.log('Teste do Github')
+
