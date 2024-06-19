@@ -1,5 +1,3 @@
-console.log('Teste')
-
 const readline = require('readline')
 
 const rl = readline.createInterface({
@@ -122,4 +120,3 @@ function exibirMenu() {
 
         }
     }
-
