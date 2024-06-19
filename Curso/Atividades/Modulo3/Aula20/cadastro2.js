@@ -120,4 +120,4 @@ function exibirMenu() {
 
         }
     }
-console.log('Teste GitHub')
+console.log('Teste do GitHub')
