@@ -1,4 +1,4 @@
-console.log('Teste do Github')
+console.log('Teste')
 
 const readline = require('readline')
 
